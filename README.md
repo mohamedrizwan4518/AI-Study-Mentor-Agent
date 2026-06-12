@@ -35,7 +35,7 @@
 ## 🖥️ Web UI Preview
 
 <p align="center">
-  <img src="src/assets/WEB UI.PNG" alt="Study Buddy Web UI" width="800">
+  <img src="dashboard.png" alt="Study Buddy Web UI" width="800">
 </p>
 
 ---

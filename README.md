@@ -1,4 +1,4 @@
-# Study Buddy 🎓
+# 🎓 AI Study Mentor Agent
 
 <p align="center">
   <img src="https://img.shields.io/github/license/H0NEYP0T-466/StudyBuddy?style=for-the-badge&color=blue" alt="License">
